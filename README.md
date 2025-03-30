@@ -1,14 +1,16 @@
-Henrique, caso haja algum problema com node_modules, tu excluí e baixa de novo.
+Projeto desenvolvido em javascript bem básico ilustrando o conceito de usar serviços em nuvem.
+
+Vercel para Frontend e Back4App para Backend.
 
 '''Terminal
 #Comando para baixar o 'node_modules'
 
 $ npm install
 
-
 ### Por fim, basta executar o comando para iniciar o servidor (ainda dentro da pasta "backend") e abrir o arquivo "index.html".
 
 ```Terminal
+
 #Command to start the server.
 
 $ npm start
