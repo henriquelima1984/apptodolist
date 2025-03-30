@@ -2,6 +2,10 @@ Projeto desenvolvido em javascript bem básico ilustrando o conceito de usar ser
 
 Vercel para Frontend e Back4App para Backend.
 
+https://apptodolist-zeta.vercel.app/ 
+
+https://parseapi.back4app.com
+
 Foi criado uma lista de tarefas básica para ilustrar o uso de serviços em Cloud.
 
 ## '''Terminal
