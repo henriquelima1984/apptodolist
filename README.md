@@ -9,7 +9,7 @@ Foi criado uma lista de tarefas básica para ilustrar o uso de serviços em Clou
 
 $ npm install
 
-### Por fim, basta executar o comando para iniciar o servidor (ainda dentro da pasta "backend") e abrir o arquivo "index.html".
+### Para rodar a aplicação basta executar o comando para iniciar o servidor (ainda dentro da pasta "backend") e abrir o arquivo "index.html".
 
 ```Terminal
 
