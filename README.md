@@ -2,7 +2,7 @@ Projeto desenvolvido em javascript bem básico ilustrando o conceito de usar ser
 
 Vercel para Frontend e Back4App para Backend.
 
-'''Terminal
+## '''Terminal
 #Comando para baixar o 'node_modules'
 
 $ npm install
