@@ -2,6 +2,8 @@ Projeto desenvolvido em javascript bem básico ilustrando o conceito de usar ser
 
 Vercel para Frontend e Back4App para Backend.
 
+Foi criado uma lista de tarefas básica para ilustrar o uso de serviços em Cloud.
+
 ## '''Terminal
 #Comando para baixar o 'node_modules'
 
