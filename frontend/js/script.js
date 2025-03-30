@@ -1,6 +1,7 @@
 const tbody = document.querySelector('tbody');
 const addForm = document.querySelector('.add-form');
 const inputTask = document.querySelector('.input-task');
+const API_URL = "https://parseapi.back4app.com"; // Substitua pela URL correta da API do Back4App
 
 const fetchTasks = async () => {
   const response = await fetch('http://localhost:3333/tasks')
@@ -43,8 +44,6 @@ const updateTask = async ({ id, title, status }) => {
   loadTasks();
 }
 
-
-
 const formatDate = (dateUTC) => {
   const options = { dateStyle: 'long', timeStyle: 'short' };
   const date = new Date(dateUTC).toLocaleString('pt-br', options);
@@ -80,9 +79,9 @@ const createSelect = (value) => {
 }
 
 const createRow = (task) => {
-
+  
   const { id, title, created_at, status } = task;
-
+  
   const tr = createElement('tr');
   const tdTitle = createElement('td', title);
   const tdCreatedAt = createElement('td', formatDate(created_at));
