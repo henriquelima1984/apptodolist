@@ -19,11 +19,11 @@ $ npm run dev
 
 Sobre a hospedagem:
 
-O arquivo (.env) ta com minhas cadreciais do Back4app!
-se tu quiser ver como ta o a comunicação pelo lado Backend, cria uma conta no Back4app e criar um novo App, vai em:
+O arquivo (.env) contém as credenciais do Back4app!
+Para analisar o backend e a comunicação no lado do servidor, é necessário criar uma conta no Back4app e criar um novo App:
 * App Senttings
 * Security & Keys
-Copia e cola tuas credenciais:
+* Depois copiar e colar às credenciais no arquivo ENV:
 
 PARSE_APP_ID=Seu_ID
 PARSE_JS_KEY=Sua_Chave
